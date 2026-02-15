@@ -1,0 +1,19 @@
+{
+  "graphs": {
+    "agent": "src.agent.workflow:compiled_workflow"
+  },
+  "env": ".env",
+  "dependencies": [
+    "langgraph",
+    "langchain",
+    "langchain-openai",
+    "langchain-core",
+    "python-dotenv",
+    "azure-identity",
+    "azure-storage-blob",
+    "requests",
+    "atlassian-python-api",
+    "PyGithub"
+  ],
+  "python_version": "3.11"
+}

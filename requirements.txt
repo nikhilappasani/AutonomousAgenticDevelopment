@@ -1,0 +1,26 @@
+# Core dependencies
+langgraph
+langchain
+langchain-openai
+langchain-core
+python-dotenv
+
+# Azure integration
+azure-identity
+azure-storage-blob
+
+# API clients
+requests
+atlassian-python-api
+PyGithub
+
+# Testing
+pytest
+pytest-asyncio
+pytest-dotenv
+
+# Utilities
+pydantic
+colorlog
+fastapi
+uvicorn
